@@ -1,0 +1,33 @@
+com/example/todoapp/Todo.java
+ com.example.todoapp.Todo
+com/example/todoapp/TodoDBClient.java
+ com.example.todoapp.TodoDBClient
+com/example/todoapp/BuildConfig.java
+ com.example.todoapp.BuildConfig
+com/example/todoapp/ViewTodo.java
+ com.example.todoapp.ViewTodo
+ com.example.todoapp.ViewTodo$1
+ com.example.todoapp.ViewTodo$1DeleteToByID
+ com.example.todoapp.ViewTodo$1UpdateTodo
+com/example/todoapp/TodoDao.java
+ com.example.todoapp.TodoDao
+com/example/todoapp/MainActivity.java
+ com.example.todoapp.MainActivity
+com/example/todoapp/TodoAdapter.java
+ com.example.todoapp.TodoAdapter
+ com.example.todoapp.TodoAdapter$1
+ com.example.todoapp.TodoAdapter$CustomViewHolder
+com/example/todoapp/TodoClickListener.java
+ com.example.todoapp.TodoClickListener
+com/example/todoapp/Repository.java
+ com.example.todoapp.Repository
+com/example/todoapp/Utils.java
+ com.example.todoapp.Utils
+com/example/todoapp/TodosListFragment.java
+ com.example.todoapp.TodosListFragment
+ com.example.todoapp.TodosListFragment$1
+ com.example.todoapp.TodosListFragment$1GetTodos
+com/example/todoapp/AddTodoFragment.java
+ com.example.todoapp.AddTodoFragment
+ com.example.todoapp.AddTodoFragment$1
+ com.example.todoapp.AddTodoFragment$1SaveTodo
